@@ -10,3 +10,8 @@ A classic Connect 4 game built using HTML, CSS, and JavaScript. This interactive
 HTML – Structure of the game.
 CSS – Styling and layout.
 JavaScript – Game logic and interactivity..
+
+# Clone the repository
+```bash
+https://github.com/ishaan2304/connect-4-game.git
+```
