@@ -6,7 +6,7 @@ A classic Connect 4 game built using HTML, CSS, and JavaScript. This interactive
 ✅ Win Detection – Automatically detects horizontal, vertical, and diagonal wins.
 ✅ Responsive Design – Works on both desktop and mobile screens.
 ✅ Smooth UI & Animations – Enhances user experience.  
-# 🖥️ Technologies Used
+#   Technologies Used
 HTML – Structure of the game.
 CSS – Styling and layout.
 JavaScript – Game logic and interactivity..
