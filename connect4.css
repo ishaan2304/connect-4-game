@@ -101,7 +101,6 @@ ul p:hover {
         height: 40px;
     }
 }
-
 @media (max-width: 420px) {
     .board {
         width: 320px;
